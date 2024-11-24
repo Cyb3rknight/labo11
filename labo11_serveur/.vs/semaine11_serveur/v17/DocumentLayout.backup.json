@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maxime.pelletier\\Desktop\\4W6\\labo11_solution\\labo11_serveur\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68016A73-A98E-47E0-B603-A63AB3FBAFF3}|semaine11_serveur.csproj|c:\\users\\maxime.pelletier\\desktop\\4w6\\labo11_solution\\labo11_serveur\\controllers\\picturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68016A73-A98E-47E0-B603-A63AB3FBAFF3}|semaine11_serveur.csproj|solutionrelative:controllers\\picturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68016A73-A98E-47E0-B603-A63AB3FBAFF3}|semaine11_serveur.csproj|c:\\users\\maxime.pelletier\\desktop\\4w6\\labo11_solution\\labo11_serveur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68016A73-A98E-47E0-B603-A63AB3FBAFF3}|semaine11_serveur.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68016A73-A98E-47E0-B603-A63AB3FBAFF3}|semaine11_serveur.csproj|c:\\users\\maxime.pelletier\\desktop\\4w6\\labo11_solution\\labo11_serveur\\models\\picture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68016A73-A98E-47E0-B603-A63AB3FBAFF3}|semaine11_serveur.csproj|solutionrelative:models\\picture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maxime.pelletier\\Desktop\\4W6\\labo11_solution\\labo11_serveur\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\maxime.pelletier\\Desktop\\4W6\\labo11_solution\\labo11_serveur\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwCEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:45:56.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PicturesController.cs",
+              "DocumentMoniker": "C:\\Users\\maxime.pelletier\\Desktop\\4W6\\labo11_solution\\labo11_serveur\\Controllers\\PicturesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PicturesController.cs",
+              "ToolTip": "C:\\Users\\maxime.pelletier\\Desktop\\4W6\\labo11_solution\\labo11_serveur\\Controllers\\PicturesController.cs",
+              "RelativeToolTip": "Controllers\\PicturesController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:27:03.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Picture.cs",
+              "DocumentMoniker": "C:\\Users\\maxime.pelletier\\Desktop\\4W6\\labo11_solution\\labo11_serveur\\Models\\Picture.cs",
+              "RelativeDocumentMoniker": "Models\\Picture.cs",
+              "ToolTip": "C:\\Users\\maxime.pelletier\\Desktop\\4W6\\labo11_solution\\labo11_serveur\\Models\\Picture.cs",
+              "RelativeToolTip": "Models\\Picture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:23:38.325Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

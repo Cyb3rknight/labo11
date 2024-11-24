@@ -1,0 +1,6 @@
+@semaine11_serveur_HostAddress = http://localhost:5036
+
+GET {{semaine11_serveur_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

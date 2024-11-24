@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\COURS - Prog.Web Orientee services\\Sem. 11 - Serveur d\u2019images\\labo11\\labo11_serveur\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68016A73-A98E-47E0-B603-A63AB3FBAFF3}|semaine11_serveur.csproj|h:\\cours - prog.web orientee services\\sem. 11 - serveur d\u2019images\\labo11\\labo11_serveur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68016A73-A98E-47E0-B603-A63AB3FBAFF3}|semaine11_serveur.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68016A73-A98E-47E0-B603-A63AB3FBAFF3}|semaine11_serveur.csproj|h:\\cours - prog.web orientee services\\sem. 11 - serveur d\u2019images\\labo11\\labo11_serveur\\models\\picture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68016A73-A98E-47E0-B603-A63AB3FBAFF3}|semaine11_serveur.csproj|solutionrelative:models\\picture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68016A73-A98E-47E0-B603-A63AB3FBAFF3}|semaine11_serveur.csproj|h:\\cours - prog.web orientee services\\sem. 11 - serveur d\u2019images\\labo11\\labo11_serveur\\data\\semaine11_serveurcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68016A73-A98E-47E0-B603-A63AB3FBAFF3}|semaine11_serveur.csproj|solutionrelative:data\\semaine11_serveurcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68016A73-A98E-47E0-B603-A63AB3FBAFF3}|semaine11_serveur.csproj|h:\\cours - prog.web orientee services\\sem. 11 - serveur d\u2019images\\labo11\\labo11_serveur\\controllers\\picturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68016A73-A98E-47E0-B603-A63AB3FBAFF3}|semaine11_serveur.csproj|solutionrelative:controllers\\picturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68016A73-A98E-47E0-B603-A63AB3FBAFF3}|semaine11_serveur.csproj|h:\\cours - prog.web orientee services\\sem. 11 - serveur d\u2019images\\labo11\\labo11_serveur\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68016A73-A98E-47E0-B603-A63AB3FBAFF3}|semaine11_serveur.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\COURS - Prog.Web Orientee services\\Sem. 11 - Serveur d\u2019images\\labo11\\labo11_serveur\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "H:\\COURS - Prog.Web Orientee services\\Sem. 11 - Serveur d\u2019images\\labo11\\labo11_serveur\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T01:58:45.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\COURS - Prog.Web Orientee services\\Sem. 11 - Serveur d\u2019images\\labo11\\labo11_serveur\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "H:\\COURS - Prog.Web Orientee services\\Sem. 11 - Serveur d\u2019images\\labo11\\labo11_serveur\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T01:58:44.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PicturesController.cs",
+              "DocumentMoniker": "H:\\COURS - Prog.Web Orientee services\\Sem. 11 - Serveur d\u2019images\\labo11\\labo11_serveur\\Controllers\\PicturesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PicturesController.cs",
+              "ToolTip": "H:\\COURS - Prog.Web Orientee services\\Sem. 11 - Serveur d\u2019images\\labo11\\labo11_serveur\\Controllers\\PicturesController.cs",
+              "RelativeToolTip": "Controllers\\PicturesController.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAADwv30AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:14:29.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Picture.cs",
+              "DocumentMoniker": "H:\\COURS - Prog.Web Orientee services\\Sem. 11 - Serveur d\u2019images\\labo11\\labo11_serveur\\Models\\Picture.cs",
+              "RelativeDocumentMoniker": "Models\\Picture.cs",
+              "ToolTip": "H:\\COURS - Prog.Web Orientee services\\Sem. 11 - Serveur d\u2019images\\labo11\\labo11_serveur\\Models\\Picture.cs",
+              "RelativeToolTip": "Models\\Picture.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:13:24.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "semaine11_serveurContext.cs",
+              "DocumentMoniker": "H:\\COURS - Prog.Web Orientee services\\Sem. 11 - Serveur d\u2019images\\labo11\\labo11_serveur\\Data\\semaine11_serveurContext.cs",
+              "RelativeDocumentMoniker": "Data\\semaine11_serveurContext.cs",
+              "ToolTip": "H:\\COURS - Prog.Web Orientee services\\Sem. 11 - Serveur d\u2019images\\labo11\\labo11_serveur\\Data\\semaine11_serveurContext.cs",
+              "RelativeToolTip": "Data\\semaine11_serveurContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:09:04.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

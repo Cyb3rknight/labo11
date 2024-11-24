@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\semaine11_serveur.props" />
+</Project>
