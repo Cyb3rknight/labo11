@@ -1,0 +1,14 @@
+<h3>Laboratoire 11</h3>
+
+<input type="file" accept="image/*" #fileInput (change)="onFileSelected()">
+<button (click)="postPicture()">Ajouter l'image</button><br><br>
+<button (click)="updateDisplay()">Mettre à jour les images affichées</button>
+
+<br><br><!-- Sauts de ligne -->
+
+<div *ngFor="let i of pictureIds" class="picture">
+  <div class="delete" (click)="deletePicture(i)">X</div>
+  <a [href]="'https://localhost:7180/api/Pictures/large/' + i" target="_blank">
+    <img [src]="'https://localhost:7180/api/Pictures/small/' + i" alt="Picture">
+  </a>
+</div>

@@ -1,0 +1,16 @@
+.picture{
+    display:inline-block;
+    position:relative;
+}
+
+.delete{
+    position:absolute;
+    top:3px;
+    right:3px;
+    background-color: rgba(0,0,0,0.5);
+    color:white;
+    padding:5px;
+    border-radius:5px;
+    display:inline-block;
+    cursor:pointer;
+}
